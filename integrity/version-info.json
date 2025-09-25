@@ -1,8 +1,0 @@
-{
-  "latest_version": "1.0.2",
-  "minimum_version": "1.0.0",
-  "release_notes": "Test auto-update",
-  "download_url": "https://github.com/pedrocaun/PecaunHWID-Updates/releases/latest",
-  "published_date": "2025-09-25T03:00:31Z",
-  "deployment_type": "Self-Contained"
-}
