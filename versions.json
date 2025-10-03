@@ -1,0 +1,12 @@
+{
+    "versions":  [
+                     {
+                         "download_url":  "https://github.com/pedrocaun/PecaunSpoofer-Updates/releases/download/1.0.1/PecaunSpoofer.exe",
+                         "release_date":  "2025-10-03T19:11:02Z",
+                         "version":  "1.0.1",
+                         "hash":  "691e66faa63516ef69bd5d5f0de70c31d8d6888087d327721a53d1d31cc01286"
+                     }
+                 ],
+    "last_updated":  "2025-10-03T19:11:02Z",
+    "latest_version":  "1.0.1"
+}
