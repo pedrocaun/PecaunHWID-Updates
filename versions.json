@@ -13,12 +13,6 @@
                          "hash":  "fab5a9ba6d6095bc3fe2ca4321b399b2c30e8f282daec4fcf7d3847b550c0857"
                      },
                      {
-                         "download_url":  "https://github.com/pedrocaun/PecaunSpoofer-Updates/releases/download/1.0.2/PecaunSpoofer.exe",
-                         "release_date":  "2025-10-03T04:06:50Z",
-                         "version":  "1.0.2",
-                         "hash":  "fab5a9ba6d6095bc3fe2ca4321b399b2c30e8f282daec4fcf7d3847b550c0857"
-                     },
-                     {
                          "download_url":  "https://github.com/pedrocaun/PecaunSpoofer-Updates/releases/download/1.0.1/PecaunSpoofer.exe",
                          "release_date":  "2025-10-03T04:05:13Z",
                          "version":  "1.0.1",
@@ -27,4 +21,5 @@
                  ],
     "last_updated":  "2025-10-03T04:12:36Z",
     "latest_version":  "1.0.3"
+
 }
